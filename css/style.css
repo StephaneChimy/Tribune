@@ -1,0 +1,36 @@
+#main, .row, figure{
+    margin: auto;    
+}
+#main{
+    max-width: 1200px;
+}
+
+.fullpage{
+    background-color: #E9EAEC;
+}
+header, figcaption, #tribune-info, footer{
+    text-align: center;
+}
+header{
+    height: 150px;
+    align-items: flex-end;
+}
+.portrait{
+    background-color: white;
+}
+figure, .timeline{
+    max-width: 800px;
+}
+#image{
+    display: block;
+}
+.timeline{
+    margin-top: 50px;
+}
+#tribute-info{
+    margin-bottom: 20px;
+}
+footer{
+    height: 100px;
+    align-items: center;  
+}
